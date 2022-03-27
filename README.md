@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/IUTInfoAix-M2105/Syllabus/master/assets/logo.png" alt="class logo" class="logo"/> Artisanat logiciel et qualité de développement
+# <img src="https://raw.githubusercontent.com/IUTInfoAix-M2105/Syllabus/master/assets/logo.png" alt="class logo" class="logo"/> Artisanat logiciel et qualité de développemen
 
 ### IUT d’Aix-Marseille – Département Informatique Aix-en-Provence
 
